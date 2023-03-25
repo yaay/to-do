@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    padding-top: 7.5%;
+}
+
+.input{
+    margin-bottom: 13px;
+}
+
+.app {
+    margin-top: 50px;
+}
+
+table{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+.tableHead {
+    color: white;
+    background: black;
+}
+
+ table, th, td {
+    border: 3px solid white;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(184, 184, 184);
+  }
